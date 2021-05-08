@@ -2,10 +2,7 @@
 using System.Windows.Forms;
 using System.Drawing;
 
-/* Jathurshan Theivikaran and Keandre Webb
- * January 21, 2020
- * A beta version of the Space Invaders game
- */
+// A beta version of the Space Invaders game
 
 namespace SpaceInvaders
 {
