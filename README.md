@@ -7,9 +7,9 @@
 [linkedin-url]: https://linkedin.com/in/jathurshan-t
 
 <!-- project summary shields -->
-[contributors-shield]: https://img.shields.io/github/contributors/jath-git/portfolio.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jath-git/Space-Invaders.svg?style=for-the-badge
 [contributors-url]: https://github.com/jath-git/portfolio/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/jath-git/portfolio.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jath-git/Space-Invaders.svg?style=for-the-badge
 [stars-url]: https://github.com/jath-git/portfolio/stargazers
 
 <!-- programming language shields -->
@@ -33,7 +33,7 @@
 <div align="center">
   <!-- project image -->
   <a href="https://github.com/jath-git/Space-Invaders">
-    <img src="readme/space-invaders.png" alt="project-thumbnail" width="400" height="250">
+    <img src="readme/spaceinvaders.png" alt="project-thumbnail" width="400" height="250">
   </a>
 
   <h3>Space Invaders</h3>
