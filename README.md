@@ -1,9 +1,3 @@
-<!-- project summary shields -->
-[contributors-shield]: https://img.shields.io/github/contributors/jath-git/Space-Invaders.svg?style=for-the-badge
-[contributors-url]: https://github.com/jath-git/Space-Invaders/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/jath-git/Space-Invaders.svg?style=for-the-badge
-[stars-url]: https://github.com/jath-git/Space-Invaders/stargazers
-
 <!-- programming language shields -->
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
