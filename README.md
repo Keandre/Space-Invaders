@@ -33,8 +33,3 @@ open solution editor
 ```console
 click run program or play button
 ```
-
-<!-- project summary -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-<p align="center"><a href="#start">back to top</a></p>
